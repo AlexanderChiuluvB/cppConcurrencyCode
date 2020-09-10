@@ -1,2 +1,2 @@
 # cppConcurrencyCode
-Code repo of learnign cpp concurrency programming
+Code repo of learning cpp concurrency programming
