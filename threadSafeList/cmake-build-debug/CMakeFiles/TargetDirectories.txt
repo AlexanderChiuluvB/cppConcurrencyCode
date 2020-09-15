@@ -1,3 +1,0 @@
-/home/alex/cppConcurrencyCode/threadSafeList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alex/cppConcurrencyCode/threadSafeList/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/alex/cppConcurrencyCode/threadSafeList/cmake-build-debug/CMakeFiles/cpp17.dir

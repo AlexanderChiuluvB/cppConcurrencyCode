@@ -1,8 +1,0 @@
-//
-// Created by alex on 2020/9/13.
-//
-
-#ifndef THREADPOOL_WEBTHREAD_H
-#define THREADPOOL_WEBTHREAD_H
-
-#endif //THREADPOOL_WEBTHREAD_H
